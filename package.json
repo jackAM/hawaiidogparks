@@ -2,9 +2,10 @@
   "name": "hawaiidogparks",
   "version": "1.0.0",
   "description": "An Oahu dog park lookup service.",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.5"
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
   },
   "devDependencies": {},
   "scripts": {
