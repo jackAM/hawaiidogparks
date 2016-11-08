@@ -1,0 +1,23 @@
+{
+  "name": "hawaiidogparks",
+  "version": "1.0.0",
+  "description": "An Oahu dog park lookup service.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackAM/hawaiidogparks.git"
+  },
+  "author": "jackAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackAM/hawaiidogparks/issues"
+  },
+  "homepage": "https://github.com/jackAM/hawaiidogparks#readme"
+}
